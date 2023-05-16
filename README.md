@@ -6,8 +6,8 @@
 - ProgTest 1 ✅
 - ProgTest 2 ✅
 - ProgTest 3 ✅
-- ProgTest 4 (:construction: in process)
-- ProgTest 5 (:construction: in process)
+- ProgTest 4 ✅
+- ProgTest 5 ✅
 - Semester work on the subject of [PJV](https://github.com/mikezigberman/sw_pjv "Semester work PJV") ✅
 
 # Description 
